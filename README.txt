@@ -1,5 +1,3 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/shilang/keyword-filter.git
-git push -u origin master
+关键字、敏感词过滤功能
+
+把需要过滤的词放在字典中keyword.txt中
