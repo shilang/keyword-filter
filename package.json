@@ -1,0 +1,10 @@
+{
+    "name": "keyword-filter",
+    "version": "0.0.1",
+    "private": false,
+    "author": "liushilang",
+    "description": "filter the keyword by node.js",
+    "dependencies": {
+        "hashmap":"2.0.0"
+    }
+}
